@@ -1,0 +1,9 @@
+.field {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  border: 1px solid #000;
+  background-color: #c2eefbea;
+}
